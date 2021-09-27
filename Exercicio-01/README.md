@@ -1,5 +1,11 @@
 # LP2
+
+## Link do video
+
+https://www.youtube.com/watch?v=Ed54Kb8W--I
+
 ## Exercicio 01 de Java 
+
 
 Uma classe chamada Author é desenhada para servir de modelo para autores de livros,
 veja abaixo:
